@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>ndrsn.dk - Litteratursider</title>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+  <link rel="stylesheet" href="../css/component.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="../css/style.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="../css/font-awesome.css">
+  <link rel="stylesheet" href="../css/nav.css">
+  <link rel="stylesheet" href="../css/onepcssgrid.css">
+  <link rel="stylesheet" href="../css/animate.css">
+
+  <style type="text/css">
+    html, body{background: #a0a0a0;}
+  </style>
+
+  <!--[if lt IE 9]>
+   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+
+<div class="navigation">
+    <a class="nav up" id="home" href="../index.html#six"><i class="icon-home"></i></a>
+    <a class="nav up" id="info" href="#text"><i class="icon-info"></i></a>
+    <a class="nav up" id="mail" href="mailto:mail@kasper-andersen.dk"><i class="icon-envelope"></i></a>
+    <a class="nav up" id="about" href="../about/index.html">me</i></a> 
+</div>
+
+<div id="litteratursider-cover" class="animated fadeIn">
+    <div class="cover">
+      <h1 class="animated fadeInDown">Litteratursider</h1>
+      <p class="animated fadeInUp">Scroll to see the project</a>
+    </div>
+</div>
+
+<div class="onepcssgrid-1800">
+  <div class="onerow">
+      <img src="images/litteratursider-ndrsn-1.jpg" class="col10">
+      <img src="images/litteratursider-ndrsn-2.jpg" class="col10">
+      <img src="images/litteratursider-ndrsn-3.jpg" class="col8">
+      <img src="images/litteratursider-ndrsn-4.jpg">
+      <img src="images/litteratursider-ndrsn-5.jpg" class="col8">
+      <img src="images/litteratursider-ndrsn-6.jpg" class="col8">
+
+
+  </div>
+
+  <div class="onerow" id="text">
+      <p>
+      A redesign of the Danish magazine <a class="nav" href="http://www.litteratursiden.dk">Litteratursider</a></br>
+      The project was a school assignment made at </br><a class="nav" id="skole" href="http://skolevisuel.dk" target="_blank">School of visual communication</a>
+      </p>
+  </div>
+
+  <div id="last">
+        <a class="nav up" href="#litteratur-cover">Go back to top</a>
+      </div>
+  </div>
+
+
+
+<script type="text/javascript">
+  $(function($){
+   $('a.nav').click(function() {
+        var $this = $(this),
+          _href = $this.attr('href'),
+          dest  = $(_href).offset().top;
+            $("html:not(:animated),body:not(:animated)").animate({  scrollTop: dest}, 400 );
+        return false;
+    }); 
+  });
+  </script>
+  <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js'></script>
+  <script src="../js/modernizr.js"></script>
+  <script src='http://code.jquery.com/jquery-latest.min.js'></script>
+  <script src="../js/index.js"></script>
+
+</body>
+</html>

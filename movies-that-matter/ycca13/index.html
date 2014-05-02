@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>ndrsn.dk - YCCA13</title>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+  <link rel="stylesheet" href="../css/component.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="../css/style.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="../css/font-awesome.css">
+  <link rel="stylesheet" href="../css/nav.css">
+  <link rel="stylesheet" href="../css/onepcssgrid.css">
+  <link rel="stylesheet" href="../css/animate.css">
+
+  <style type="text/css">
+    html, body{background: #e7ded5;}
+  </style>
+
+  <!--[if lt IE 9]>
+   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+
+<div class="navigation">
+    <a class="nav up" id="home" href="../index.html#four"><i class="icon-home"></i></a>
+    <a class="nav up" id="info" href="#text"><i class="icon-info"></i></a>
+    <a class="nav up" id="mail" href="mailto:mail@ndrsn.dk"><i class="icon-envelope"></i></a>
+    <a class="nav up" id="about" href="../about/index.html">me</i></a> 
+</div>
+
+<div id="ycca-cover" class="animated fadeIn">
+    <div class="cover">
+      <h1 class="animated fadeInDown">Specialisterne</h1>
+      <p class="animated fadeInUp">Scroll to see the project</a>
+    </div>
+</div>
+
+<div class="onepcssgrid-1800">
+  <div class="onerow">
+      <img src="images/ycca13-ndrsn-1.jpg">
+      <img src="images/ycca13-ndrsn-2.jpg">
+      <img src="images/ycca13-ndrsn-3.jpg">
+      <img src="images/ycca13-ndrsn-4.jpg">
+      <img src="images/ycca13-ndrsn-5.jpg">
+      <img src="images/ycca13-ndrsn-6.jpg">
+      <img src="images/ycca13-ndrsn-7.jpg">
+      <img src="images/ycca13-ndrsn-8.jpg">
+      <img src="images/ycca13-ndrsn-9.jpg">
+
+  </div>
+
+  <div class="onerow" id="text">
+      <p>
+      This project was made for the for the Danish <a class="nav" href="http://www.creativecircle.dk/da/ycca/">YCCA 2013</a> together with
+      <a class="nav" href="http://bomouridsen.dk">Bo Mouridsen</a>
+      </br></br>
+      The assignment was to encourage Danish companies to recruit more people with autism, aka “Specialists” and show them the special skills people with autism can add to the company.
+      </br></br>
+      Our idea was to analyze the company and find spots in the company where the specialists can make a difference and strengthen the company.
+      </br></br>
+      We made a web app where the company connects via Linkedin and finds all the employees from the company or a given team. The app analyzes the employees' skills and finds places in the team where a Specialist can be used. The app recommends the best qualified Specialists in the database from their skills, age and location.
+      </p>
+  </div>
+
+  <div id="last">
+        <a class="nav up" href="#ycca-cover">Go back to top</a>
+      </div>
+  </div>
+
+
+
+<script type="text/javascript">
+  $(function($){
+   $('a.nav').click(function() {
+        var $this = $(this),
+          _href = $this.attr('href'),
+          dest  = $(_href).offset().top;
+            $("html:not(:animated),body:not(:animated)").animate({  scrollTop: dest}, 400 );
+        return false;
+    }); 
+  });
+  </script>
+  <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js'></script>
+  <script src="../js/modernizr.js"></script>
+  <script src='http://code.jquery.com/jquery-latest.min.js'></script>
+  <script src="../js/index.js"></script>
+
+</body>
+</html>

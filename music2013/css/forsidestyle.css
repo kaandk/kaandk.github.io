@@ -1,0 +1,276 @@
+@import url("http://fonts.googleapis.com/css?family=Quicksand:300,400,700");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800");
+@import url("http://fonts.googleapis.com/css?family=Bree+Serif");
+@import url("http://fonts.googleapis.com/css?family=Bitter:400,700,400italic");
+@import url("http://cdn.radoorco.dk/webfonts/blokk/style.css");
+@import url("http://fonts.googleapis.com/css?family=Montserrat:400,700");
+
+
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+#section-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+html a, body a {
+  color: #f8f8f8;
+  text-decoration: none;
+}
+
+html a:hover, body a:hover {
+  border-bottom: none;
+}
+
+article {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+
+#two {background: #343434;}
+
+#three {background: #b397c0;}
+
+#four {background: #1b82c7;}
+
+#five {background: #cacaca;}
+
+#six {background: #3e3935;}
+
+#seven {background: #f5b6b1;}
+
+#eight {background: #dcdace;}
+
+#nine {background: #ebc352;}
+
+#ten {background: #97aaa6;}
+
+#elleven {background: #617381}
+
+#twelve {background: #ffb74a;}
+
+#one, #two, #three, #four, #five, #six, #seven, #eight, #nine, #ten, #elleven, #twelve {
+  width: 100%;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.content {
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  height: 40%;
+  
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  color: #fff;
+  text-align: center;
+}
+
+
+h3 {
+  color: #fff;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.content img{
+  width: 100%;
+  background: #fff;
+  overflow: hidden;
+}
+
+.content:hover{
+  opacity: 0.7;
+  transition:opacity 0.5s ease;
+  -webkit-transition:opacity 0.5s ease;
+  -moz-transition:opacity 0.5s ease;
+  -o-transition:opacity 0.5s ease;
+}
+
+a h2 {
+  width: 100%;
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #fff;
+  font-family: "open sans", sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+
+.content a {
+  display: block;
+  height: 100px;
+  margin-top: -30px;
+  padding-top: 30px;
+}
+
+/* One */
+#one {
+  background: #b39160 url('../bg.jpg'); 
+}
+
+
+#one .cover p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.cover  h1 {
+  padding: 30px 40px;
+  border: 7px solid #fff;
+  color: #fff;
+  font-size: 2rem;
+  font-family: "open sans", sans-serif;
+  font-weight: 800;
+  cursor:default;
+  text-align: center;
+}
+
+#one .cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -196px;
+}
+
+
+
+.cover p {
+    margin-top: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+/* End */
+
+.end {
+  width: 300px;
+  margin-left: -150px;
+  margin-top: -60px;
+}
+
+.end p {
+  font-weight: 400;
+}
+
+.end a {
+  font-weight: 600;
+}
+
+.end a:hover {
+  text-decoration: underline;
+}
+
+/* last */
+#last {
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  background: #000;
+}
+
+#last article {
+  width: 100%;
+  text-align: center;
+}
+
+#last article a {
+  color: #fff;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  
+}
+
+@media only screen 
+and (max-width : 400px) {
+
+  #one article{
+    width: 100%;
+    left: 0;
+    margin: -50px 0 0 0;
+  }
+
+  .cover  h1 {
+  padding: 30px 20px;
+  border: 7px solid #fff;
+  color: #fff;
+  font-size: 1.5rem;
+  font-family: "open sans", sans-serif;
+  font-weight: 800;
+  cursor:default;
+  text-align: center;
+}
+
+#one .cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -143px;
+}
+
+.content {
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  height: 40%;
+}
+
+.content img{
+  background: #fff;
+  margin: 0 auto;
+}
+
+a h2 {
+  text-align: right;
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #fff;
+  font-family: "open sans", sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  float: right;
+}
+
+@media (max-height:600px) {
+
+.content {
+  
+  display: none;
+  
+} 
+
+}
+

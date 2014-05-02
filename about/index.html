@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>ndrsn.dk - About Kasper Andersen</title>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+  <link rel="stylesheet" href="../css/component.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="../css/style.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="../css/font-awesome.css">
+  <link rel="stylesheet" href="../css/nav.css">
+  <link rel="stylesheet" href="../css/onepcssgrid.css">
+  <link rel="stylesheet" href="../css/animate.css">
+
+  <style type="text/css">
+    html, body{background: #f5f5f5;}
+  </style>
+
+  <!--[if lt IE 9]>
+   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+
+<div class="navigation">
+    <a class="nav up" id="home" href="../index.html#one"><i class="icon-home"></i></a>
+    <a class="nav up" id="info" href="#text"><i class="icon-info"></i></a>
+    <a class="nav up" id="mail" href="mailto:mail@kasper-andersen.dk"><i class="icon-envelope"></i></a>
+    <a class="nav up" id="about" href="../about/index.html">me</i></a> 
+</div>
+
+<div id="about-cover" class="animated fadeIn">
+    <div class="cover">
+      <h1 class="animated fadeInDown">About me</h1>
+      <p class="animated fadeInUp">Scroll to read about me</a>
+    </div>
+</div>
+
+  <div class="onerow" id="text">
+      <p>My name is Kasper Andersen, I'm a 23 year old Danish Digitized Graphic Designer. I'm currently working at the Aalborg based agency <a class="nav" href="http://detnyesort.dk" target="_blank">Det nye sort</a> as a Junior Designer. I finished my BA at the <a class="nav" id="skole" href="http://skolevisuel.dk" target="_blank">School of visual communication</a> in 2012 where I also took an internship at the Dutch agency <a class="nav" href="http://www.silodesign.nl/home/" target="_blank">Silo Design.</a> Before I joined Det nye sort I worked for 2 months freelancing at the London based agency <a class="nav" href="http://thelatenightsalon.co.uk" target="_blank">The Late Night Salon</a>. You can see the rest of my resume and connect with me on <a class="nav" id="linkedin" href="http://dk.linkedin.com/in/kaandk/" target="_blank">Linkedin</a>.
+</br></br>
+You should follow me on <a class="nav" id="twitter" href="http://twitter.com/kaandk" target="_blank">Twitter</a> or see what music i like on <a class="nav" id="spotify" href="http://open.spotify.com/user/thekasperandersen/starred" target="_blank">Spotify</a>. If you want to see some of my smaller projects and work-in-progress you should follow me on <a class="nav" id="dribbble" href="http://dribbble.com/KaAnDK" target="_blank">dribbble</a>. If you want to talk or drink coffee with me, you should send me an <a class="nav" href="mailto:kasper@ndrsn.dk">E-mail</a>.</p>
+  </div>
+
+  <div id="last">
+        <a class="nav up" href="mailto:mail@kasper-andersen.dk">Send me an E-mail</a>
+      </div>
+  </div>
+
+
+
+<script type="text/javascript">
+  $(function($){
+   $('a.nav').click(function() {
+        var $this = $(this),
+          _href = $this.attr('href'),
+          dest  = $(_href).offset().top;
+            $("html:not(:animated),body:not(:animated)").animate({  scrollTop: dest}, 400 );
+        return false;
+    }); 
+  });
+  </script>
+  <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js'></script>
+  <script src="../js/modernizr.js"></script>
+  <script src='http://code.jquery.com/jquery-latest.min.js'></script>
+  <script src="../js/index.js"></script>
+
+</body>
+</html>

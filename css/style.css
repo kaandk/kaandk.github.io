@@ -1,0 +1,355 @@
+
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800");
+
+
+
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  background: #f5f5f5;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+html a, body a {
+  color: #f8f8f8;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+html a:hover, body a:hover {
+  border-bottom: none;
+}
+
+.block {
+  display: block;
+  z-index: 999999;
+}
+
+
+
+/* cover */
+
+#dimension-cover {
+  background: url("../dimensiondesign/images/dimension-ndrsn-cover.jpg") no-repeat center center fixed;
+}
+
+@media only screen 
+and (max-width : 1024px) {
+#dimension-cover {
+  background: url("../dimensiondesign/images/dimension-ndrsn-cover.jpg") no-repeat center center scroll;
+}
+}
+
+#dimension-cover .darkcover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -189px;
+}
+
+#xtel-cover {
+  background: url("../xtel/images/xtel-ndrsn-cover.jpg") no-repeat center center fixed;
+}
+
+@media only screen 
+and (max-width : 1024px) {
+#xtel-cover {
+  background: url("../xtel/images/xtel-ndrsn-cover.jpg") no-repeat center center scroll;
+}
+}
+
+
+#xtel-cover .cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -99px;
+}
+
+#adam-cover {
+  background: url("../adam-city/images/adam-ndrsn-cover.jpg") no-repeat center center fixed;
+}
+
+@media only screen 
+and (max-width : 1024px) {
+#adam-cover {
+  background: url("../adam-city/images/adam-ndrsn-cover.jpg") no-repeat center center scroll;
+}
+}
+
+#adam-cover .cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -135px;
+}
+
+#ycca-cover {
+  background: url("../ycca13/images/ycca13-ndrsn-cover.jpg") no-repeat center center fixed;
+}
+
+@media only screen 
+and (max-width : 1024px) {
+#ycca-cover {
+  background: url("../ycca13/images/ycca13-ndrsn-cover.jpg") no-repeat center center scroll;
+}
+}
+
+#ycca-cover .cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -160px;
+}
+
+#litteratursider-cover {
+  background: url("../litteratursider/images/litteratursider-ndrsn-cover.jpg") no-repeat center center fixed;
+}
+
+@media only screen 
+and (max-width : 1024px) {
+#litteratursider-cover {
+  background: url("../litteratursider/images/litteratursider-ndrsn-cover.jpg") no-repeat center center scroll;
+}
+}
+
+#about-cover .cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -120px;
+}
+
+#about-cover {
+  background: url("../about/images/about-ndrsn-cover.jpg") no-repeat center center fixed;
+}
+
+@media only screen 
+and (max-width : 1024px) {
+#about-cover {
+  background: url("../about/images/about-ndrsn-cover.jpg") no-repeat center center scroll;
+}
+}
+
+#litteratursider-cover .cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -161px;
+}
+
+#movies-that-matter-cover {
+  background: url("../movies-that-matter/images/mtm-ndrsn-cover.jpg") no-repeat center center fixed;
+}
+
+@media only screen 
+and (max-width : 1024px) {
+#movies-that-matter-cover {
+  background: url("../movies-that-matter/images/mtm-ndrsn-cover.jpg") no-repeat center center scroll;
+}
+}
+
+#movies-that-matter-cover .cover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -65px 0 0 -202px;
+}
+
+#xtel-cover, #adam-cover, #ycca-cover, #litteratursider-cover, #movies-that-matter-cover, #about-cover, #dimension-cover {
+  width: 100%;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.cover  h1 {
+  padding: 30px 40px;
+  border: 7px solid #fff;
+  color: #fff;
+  font-size: 2rem;
+  font-family: "open sans", sans-serif;
+  font-weight: 800;
+  cursor:default;
+  text-align: center;
+}
+
+.darkcover  h1 {
+  padding: 30px 40px;
+  border: 7px solid #1c1f26;
+  color: #1c1f26;
+  font-size: 2rem;
+  font-family: "open sans", sans-serif;
+  font-weight: 800;
+  cursor:default;
+  text-align: center;
+}
+
+@media only screen 
+and (max-width : 640px) {
+#movies-that-matter-cover .cover, #litteratursider-cover, .cover #about-cover, .cover #litteratursider-cover, #adam-cover .cover, #ycca-cover .cover, #xtel-cover .cover, #dimension-cover .darkcover {
+  top: 50%;
+  left: 0;
+  width: 100%;
+  margin: -65px 0 0 0;
+}
+
+.cover  h1 {
+  width: 90%;
+  padding: 30px 0;
+  border: 7px solid #fff;
+  color: #fff;
+  font-size: 1.5rem;
+  font-family: "open sans", sans-serif;
+  font-weight: 800;
+  cursor:default;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.cover  h1 {
+  width: 90%;
+  padding: 30px 0;
+  border: 7px solid #1c1f26;
+  color: #1c1f26;
+  font-size: 1.5rem;
+  font-family: "open sans", sans-serif;
+  font-weight: 800;
+  cursor:default;
+  text-align: center;
+  margin: 0 auto;
+}
+
+}
+
+.cover p {
+    margin-top: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.darkcover p {
+    margin-top: 20px;
+    color: #1c1f26;
+    text-transform: uppercase;
+}
+
+
+/* side */
+
+img{
+  max-width: 100%;
+  border: 0px;
+  margin-bottom: -4px;
+  }
+
+#gif1 img, #gif2 img{
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+#gif1 {
+  background: #dc4853;
+}
+
+#gif2 {
+  background: #f4ba60;
+}
+
+#adamlogo {
+  padding-top: 15%;
+  padding-bottom: 15%;
+}
+
+video {
+  background: #f5f5f5;
+}
+
+#text p {
+  color: rgba(0,0,0,0.8);
+  font-size: 1.5em;
+  font-weight: 400;
+  line-height: 2em; 
+  text-align: left;
+}
+
+@media only screen 
+and (max-width : 320px) {
+
+  #text p {
+  color: rgba(0,0,0,0.8);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.8em; 
+}
+}
+
+#text p a{
+  font-weight: 600;
+  color: rgba(0,0,0,0.8);
+  transition:All 0.5s ease;
+  -webkit-transition:All 0.5s ease;
+  -moz-transition:All 0.5s ease;
+  -o-transition:All 0.5s ease;
+}
+
+#text p a:hover{
+  color: rgba(0,0,0,0.5);
+  transition:All 0.5s ease;
+  -webkit-transition:All 0.5s ease;
+  -moz-transition:All 0.5s ease;
+  -o-transition:All 0.5s ease;
+}
+
+#text p #skole:hover{
+  color: #ee1b8d;
+}
+
+#text p #linkedin:hover{
+  color: #007bb6;
+}
+
+#text p #twitter:hover{
+  color: #00aced;
+}
+
+#text p #dribbble:hover{
+  color: #ea4c89;
+}
+
+#text p #spotify:hover{
+  color: #7ab800;
+}
+
+#text {
+  margin: 15% auto;
+  width: 70%;
+}
+
+
+#last {
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  background: #000;
+  text-align: center;
+}
+
+
+#last a {
+  color: #fff;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  
+}

@@ -1,0 +1,71 @@
+<html>
+<head>
+	<title>Dimension Design - Kommer snart</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="onepcssgrid.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+</head>
+<body>
+
+	
+<div class="onepcssgrid-1200">
+
+	<div class="onerow">
+		<div class="col12">
+			<iframe src="http://player.vimeo.com/video/25708134?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0">
+			</iframe>
+		</div>
+	</div>
+
+	<div class="onerow">
+		<div class="col2">col2</div>
+		<div class="col2">col2</div>
+		<div class="col2">col2</div>
+		<div class="col2">col2</div>
+		<div class="col2">col2</div>
+		<div class="col2 last">col2</div>
+	</div>
+
+
+</div>
+
+<script type="text/javascript">
+	// Find all YouTube videos
+	var $allVideos = $("iframe[src^='http://player.vimeo.com'], iframe[src^='http://www.youtube.com']"),
+	
+	    // The element that is fluid width
+	    $fluidEl = $("body");
+	
+	// Figure out and save aspect ratio for each video
+	$allVideos.each(function() {
+	
+	  $(this)
+	    .data('aspectRatio', this.height / this.width)
+	
+	    // and remove the hard coded width/height
+	    .removeAttr('height')
+	    .removeAttr('width');
+	
+	});
+	
+	// When the window is resized
+	$(window).resize(function() {
+	
+	  var newWidth = $fluidEl.width();
+	
+	  // Resize all videos according to their own aspect ratio
+	  $allVideos.each(function() {
+	
+	    var $el = $(this);
+	    $el
+	      .width(newWidth)
+	      .height(newWidth * $el.data('aspectRatio'));
+	
+	  });
+	
+	// Kick off one resize to fix all videos on page load
+	}).resize();
+</script>
+
+</body>
+</html>

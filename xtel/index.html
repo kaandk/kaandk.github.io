@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>ndrsn.dk - xtel</title>
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+  <link rel="stylesheet" href="../css/component.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="../css/style.css" media="screen" type="text/css" />
+  <link rel="stylesheet" href="../css/font-awesome.css">
+  <link rel="stylesheet" href="../css/nav.css">
+  <link rel="stylesheet" href="../css/onepcssgrid.css">
+  <link rel="stylesheet" href="../css/animate.css">
+
+</head>
+<body>
+
+<div class="navigation">
+    <a class="nav up" id="home" href="../index.html#two"><i class="icon-home"></i></a>
+    <a class="nav up" id="info" href="#text"><i class="icon-info"></i></a>
+    <a class="nav up" id="mail" href="mailto:mail@kasper-andersen.dk"><i class="icon-envelope"></i></a>
+    <a class="nav up" id="about" href="../about/index.html">me</i></a> 
+</div>
+
+<div id="xtel-cover" class="animated fadeIn">
+    <div class="cover">
+      <h1 class="animated fadeInDown">xtel</h1>
+      <p class="animated fadeInUp">Scroll to see the project</a>
+    </div>
+</div>
+
+<div class="onepcssgrid-1800">
+  <div class="onerow">
+      <img src="images/xtel-ndrsn-webforside.jpg">
+      <img src="images/xtel-ndrsn-iwebforside.jpg">
+      <img src="images/xtel-ndrsn-webmobile.jpg">
+      <img src="images/xtel-ndrsn-iwebmobile.jpg">
+      <div id="gif1"><img src="images/xtel-ndrsn-graf1.gif"></div>
+      <div id="gif2"><img src="images/xtel-ndrsn-graf2.gif"></div>
+      <img src="images/xtel-ndrsn-webcontact.jpg">
+      <img src="images/xtel-ndrsn-iwebcontact.jpg">
+  </div>
+
+  <div class="onerow">
+      <img src="images/xtel-ndrsn-iphone-forside.gif" class="col4">
+      <img src="images/xtel-ndrsn-iphone-side.gif" class="col4 last">
+  </div>
+
+  <div class="onerow" id="text">
+      <p>
+        This project was made with the rest of the team at <a href="http://www.detnyesort.dk" target="_blank">Det nye sort.</a>
+        </br></br>
+        Xtel is developing and researching for solutions in embedded and wireless technology. They are a team of great engineers and work on a lot of complicated projects. Xtel do a lot of stuff that normal people wont understand, even some of their potential new costumers would have a hard time understanding it. The mission was to make Xtel more understandable and human. </br>We wanted to show that Xtel is a company driven by people and not computers, to make a cold (by look) company into a warm and noticeable company but at the same time showing them as a professional and hard working.
+        </br></br>
+        We did this by picking some warm colors and showing the people of Xtel on every page. We worked with three different colors to symbolize the three main cores in Xtel: Technology (dark blue), Business (yellow) and People (red). 
+        </br></br> 
+        We also tried to make the site accessible for two kinds of target groups. The first target is new costumers who need an easy overview of Xtel, the second target is the experienced costumers who want to read more about Xtel and all the complex stuff they are doing.
+		We did this by starting every page with an intro text, this intro should be enough for the costumer to have an overview of the subject. Then if you read beyond the intro, the text will become more and more complex and the costumer will be presented with key numbers, graphs, etc.
+        </br></br> 
+        The last goal was to make them look like a modern company. 
+		We did this by making the site fully responsive, with a good mobile page and using animation around the site to give the design some depth.
+       
+
+        
+  
+      </p>
+  </div>
+
+  <div id="last">
+        <a class="nav up" href="#xtel-cover">Go back to top</a>
+      </div>
+  </div>
+
+<script type="text/javascript">
+  $(function($){
+   $('a.nav').click(function() {
+        var $this = $(this),
+          _href = $this.attr('href'),
+          dest  = $(_href).offset().top;
+            $("html:not(:animated),body:not(:animated)").animate({  scrollTop: dest}, 400 );
+        return false;
+    }); 
+  });
+  </script>
+  <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js'></script>
+  <script src="../js/modernizr.js"></script>
+  <script src='http://code.jquery.com/jquery-latest.min.js'></script>
+  <script src="../js/index.js"></script>
+
+
+</body>
+
+</html>

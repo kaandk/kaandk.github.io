@@ -1,0 +1,201 @@
+@import url("http://fonts.googleapis.com/css?family=Quicksand:300,400,700");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800");
+@import url("http://fonts.googleapis.com/css?family=Bree+Serif");
+@import url("http://fonts.googleapis.com/css?family=Bitter:400,700,400italic");
+@import url("http://cdn.radoorco.dk/webfonts/blokk/style.css");
+@import url("http://fonts.googleapis.com/css?family=Montserrat:400,700");
+
+
+html, body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  -webkit-font-smoothing: antialiased;
+}
+
+#site {
+    width: 100%;
+}
+
+#section-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+html a, body a {
+  color: #f8f8f8;
+  text-decoration: none;
+}
+
+html a:hover, body a:hover {
+  border-bottom: none;
+}
+
+article {
+  position: absolute;
+}
+
+.block {
+  display: block;
+  z-index: 999999;
+}
+
+#one article, #two article, #three article, #four article, #five article, #six article {
+  z-index: 999;
+  top: 50%;
+  left: 50%;
+}
+
+#two article {
+  top: 150%;
+}
+
+#three article {
+  top: 250%;
+}
+
+#four article {
+  top: 350%;
+}
+
+#five article {
+  top: 450%;
+}
+
+#six article {
+  top: 550%;
+}
+
+#two article, #three article, #four article, #five article, #six article {
+  margin: -50px 0 0 -175px;
+}
+
+#two {background: url("../images/xtel.jpg") no-repeat center center;}
+
+#three {background: url("../images/mtm.jpg") no-repeat center center;}
+
+#four {background: url("../images/ycca13.jpg") no-repeat center center;}
+
+#five {background: url("../images/adam.jpg") no-repeat center center;}
+
+#six {background: url("../images/litteratursider.jpg") no-repeat center center;}
+
+#one, #two, #three, #four, #five, #six {
+  width: 100%;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.content{
+  width: 350px;
+  height: 100px;
+  background: #fff;
+  margin: 0 auto;
+  overflow: hidden;
+  -moz-box-shadow: 0px 0px 10px rgba(0,0,,0.1);
+  -webkit-box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  box-shadow: 0px 0px  10px rgba(0,0,0,0.1);
+  opacity: 0.9;
+   transition:opacity 0.5s ease;
+  -webkit-transition:opacity 0.5s ease;
+  -moz-transition:opacity 0.5s ease;
+  -o-transition:opacity 0.5s ease;
+}
+
+.content:hover{
+  opacity: 1;
+  transition:opacity 0.5s ease;
+  -webkit-transition:opacity 0.5s ease;
+  -moz-transition:opacity 0.5s ease;
+  -o-transition:opacity 0.5s ease;
+}
+
+h2 {
+  margin-top: 30px;
+  font-size: 1,5rem;
+  color: #000;
+  font-family: "open sans", sans-serif;
+  font-weight: 800;
+}
+
+.content p {
+  color: rgba(0,0,0,0.8);
+  font-size: 0.7rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-top: -10px;
+}
+
+.content a {
+  display: block;
+  height: 100px;
+  margin-top: -30px;
+  padding-top: 30px;
+}
+
+/* One */
+#one {
+  background: #ffb74a;
+}
+
+#one article {
+  margin: -100px 0 0 -160px;
+}
+
+#one article p {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+
+
+/* last */
+#last {
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  background: #000;
+}
+
+#last article {
+  width: 100%;
+  text-align: center;
+}
+
+#last article a {
+  color: #fff;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  
+}
+
+@media only screen 
+and (max-width : 320px) {
+
+  #two article, #three article, #four article, #five article, #six article {
+    width: 100%;
+    left: 0;
+    margin: -50px 0 0 0;
+  }
+
+  #two article .content, #three article .content, #four article .content, #five article .content, #six article .content {
+    width: 100%;
+    opacity: 0.7;
+  }
+
+  #one article a img {
+    width: 80%;
+  }
+
+}
