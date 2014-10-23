@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta HTTP-EQUIV="refresh" content="1">
+  <title>Test</title>
+  
+  <script type='text/javascript' src='http://fiddle.jshell.net/js/lib/mootools-core-1.4.5-nocompat.js'></script>
+
+  
+  <style type='text/css'>
+
+  	body {
+  		background: #F2F2F2;
+  	}
+
+    .img-wrapper {
+	margin-bottom: -4px;
+	}
+
+	.wrapper {
+		width: 282px;
+		margin: auto;
+		margin-top: 100px;
+		background: #FFFFFF;
+		border: 1px solid #DDDDDD;
+		-moz-box-shadow:    0px 2px 4px 0px rgba(204,204,204,0.50);
+		box-shadow:         0px 2px 4px 0px rgba(204,204,204,0.50);
+	}
+
+
+  </style>
+  
+
+
+<script type='text/javascript'>//<![CDATA[ 
+window.addEvent('load', function() {
+var arrayImg = ["title/1.png" , "title/2.png" , "title/3.png" , "title/4.png" , "title/5.png" , "title/6.png" , "title/7.png" , "title/8.png"];
+var arrayImg2 = ["cover/1.png" , "cover/2.png" , "cover/3.png" , "cover/4.png" , "cover/5.png" , "cover/6.png" , "cover/7.png" , "cover/8.png" , "cover/9.png" , "cover/10.png" , "cover/11.png" , "cover/12.png" , "cover/13.png"];
+var arrayImg3 = ["details/1.png" , "details/2.png" , "details/3.png" , "details/4.png" , "details/5.png" , "details/6.png" , "details/7.png" , "details/8.png" , "details/9.png" , "details/10.png" , "details/17.png" , "details/18.png"];
+var arrayImg4 = ["details/1.png" , "details/2.png" , "details/3.png" , "details/4.png" , "details/5.png" , "details/6.png" , "details/7.png" , "details/8.png" , "details/9.png" , "details/10.png" , "details/17.png" , "details/18.png"];
+var arrayImg5 = ["details/1.png" , "details/2.png" , "details/3.png" , "details/4.png" , "details/5.png" , "details/6.png" , "details/7.png" , "details/8.png" , "details/9.png" , "details/10.png" , "details/17.png" , "details/18.png"];
+var arrayImg6 = ["footer/1.png"];
+
+getRandomImage(arrayImg, "");
+getRandomImage(arrayImg2, "");
+getRandomImage(arrayImg3, "");
+getRandomImage(arrayImg4, "");
+getRandomImage(arrayImg5, "");
+getRandomImage(arrayImg6, "");
+
+function getRandomImage(imgAr, path, wrapClass) {
+    path = path || 'images/'; // default path here
+    var num = Math.floor( Math.random() * imgAr.length );
+    var img = imgAr[ num ];
+
+    var imgWrapper = document.createElement("div"),
+        imgElement = document.createElement("img");
+
+    imgElement.src = path + img;
+    imgWrapper.className = wrapClass || "img-wrapper";
+    imgWrapper.appendChild(imgElement);
+
+    var wrapperElement = document.getElementsByClassName("wrapper");
+    wrapperElement[0].appendChild(imgWrapper);
+}
+});//]]>  
+
+</script>
+
+
+</head>
+<body>
+  
+<div class="wrapper">
+    
+</div>
+
+
+</body>
+
+
+</html>
+
