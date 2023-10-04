@@ -1,0 +1,924 @@
+[Chris from Butter 👋] There we go.
+
+[Chris from Butter 👋] Yeah. So updating the recap feature page.
+
+[Chris from Butter 👋] With some of the new stuff,
+
+[Chris from Butter 👋] We're talking about on the recap
+
+[Chris from Butter 👋] section of the main page, like have one of the squares updated with
+
+[Chris from Butter 👋] the engagement stats. I think we have one of them today, which is already.
+
+[Chris from Butter 👋] Engagement stats, we can just review if that needs to be.
+
+[Chris from Butter 👋] If there's copy that needs to be changed or whether we need
+
+[Chris from Butter 👋] a new graphic or something or whether we need to add you like, a new block at the bottom?
+
+[Chris from Butter 👋] Which just shows some the engagement sets in in a different way.
+
+[Chris from Butter 👋] But but yeah, recap. And then, yeah, we have some comparison
+
+[Chris from Butter 👋] pages that we wanna create.
+
+[Chris from Butter 👋] Is there... Do we do you have any ideas about
+
+[Chris from Butter 👋] about this yet, just?
+
+[Cheska from Butter] I think those
+
+[Cheska from Butter] things I was thinking about one is including it
+
+[Cheska from Butter] as there can see I've completed
+
+[Chris from Butter 👋] You've updated to, I see.
+
+[Cheska from Butter] yeah.
+
+[Cheska from Butter] It's happened to me in some calls in demos. Actually it's quite cute.
+
+[Cheska from Butter] Should in the pricing page, itself
+
+[Cheska from Butter] just mentioning upfront, like, what what are the tools for your place and how much they're saving?
+
+[Cheska from Butter] By going into butter and then also having
+
+[Cheska from Butter] versus pages. So, like, similarly to our, we have butter versus zoom now
+
+[Cheska from Butter] pick a more lightweight version of that on butter versus
+
+[Cheska from Butter] But our versus type form was better versus session yeah, whatever
+
+[Cheska from Butter] like, some of the tools that we we actually replace.
+
+[Cheska from Butter] So I'll be working on the car
+
+[Chris from Butter 👋] had a question
+
+[Cheska from Butter] b structure and copy sheet for that this week.
+
+[Cheska from Butter] And then maybe pass on you guys.
+
+[Chris from Butter 👋] Got the word
+
+[Chris from Butter 👋] Are we thinking about making one... Like, so butter compared to
+
+[Chris from Butter 👋] type form other compared to session lab or
+
+[Chris from Butter 👋] what about? Like, in my mind it was, like,
+
+[Chris from Butter 👋] other and then there are all of these different tools.
+
+[Chris from Butter 👋] That can kind of
+
+[Chris from Butter 👋] well, replace somehow.
+
+[Cheska from Butter] On
+
+[Chris from Butter 👋] Just
+
+[Cheska from Butter] On the overview... Sorry. Sorry. I.
+
+[Chris from Butter 👋] just thinking...
+
+[Chris from Butter 👋] Seems like it'll be a lot of
+
+[Chris from Butter 👋] Unsure if we go down on, like each individual
+
+[Chris from Butter 👋] two... Like, pages... Because again,
+
+[Chris from Butter 👋] once we go tool to tool Session lab has a lot more when it comes to agenda
+
+[Chris from Butter 👋] Right? And all a sudden, you'll be comparing that one thing because it's a full page
+
+[Chris from Butter 👋] on that. Whereas if it's just like in a group of
+
+[Chris from Butter 👋] tools that we replace
+
+[Chris from Butter 👋] it can be on an overall level somehow. I don't know if if if anyone else have.
+
+[Kasper Andersen] had a comment
+
+[Kasper Andersen] Got the word
+
+[Kasper Andersen] But on those right
+
+[Kasper Andersen] pay this kind of. I don't know how to say it.
+
+[Kasper Andersen] Kind of pun it anyway. It's like just us putting ourselves in a better light and the other
+
+[Kasper Andersen] tools doesn't really matter if session like
+
+[Kasper Andersen] can do stocks that we can. We just won't mention that on the
+
+[Kasper Andersen] or page because it's about Seo and
+
+[Kasper Andersen] during our features. Like I would at least imagine that.
+
+[Kasper Andersen] Whenever we do a new page, we have to decide okay.
+
+[Kasper Andersen] This is a one off page or do we want more than one of the same page? And then it needs
+
+[Kasper Andersen] be, and then then all of them needs to be the same structure.
+
+[Kasper Andersen] Otherwise, it's going to be mobile. Right? So
+
+[Kasper Andersen] think if we could make it template where it's like,
+
+[Kasper Andersen] Yeah. The part versus assumed page is not
+
+[Kasper Andersen] I we should be inspired. But that was pretty quickly made right. So it's also
+
+[Kasper Andersen] not that pretty and it's not connected to any Cms. So
+
+[Kasper Andersen] So if we can make Like it simply, then
+
+[Chris from Butter 👋] But that is if we don't already have
+
+[Chris from Butter 👋] page structure that could work right.
+
+[Chris from Butter 👋] So, like, if you could reuse the feature page, for example.
+
+[Kasper Andersen] Yeah. Yeah. But but this
+
+[Kasper Andersen] you don't really reuse anything, like it's... Of course, easier if we take the design
+
+[Kasper Andersen] feature, but You still have to copy it over and set it all up. So we don't have to
+
+[Chris from Butter 👋] Okay.
+
+[Kasper Andersen] we create stuff, but it's not like as because it's them a new
+
+[Chris from Butter 👋] Okay.
+
+[Kasper Andersen] Cms type we have to set up. But it's very faster than just
+
+[Chris from Butter 👋] By my only reflection of my only concern and going into this is how much
+
+[Chris from Butter 👋] time we'll be spending... Building multiple pages and setting up template
+
+[Chris from Butter 👋] and, like for for for doing
+
+[Chris from Butter 👋] for doing this and how much time we'll be spending on, you know,
+
+[Chris from Butter 👋] creating creating the actual comparisons and the copy, what is it that we're comparing because
+
+[Chris from Butter 👋] we will need to look into features on... Of course, our own side, but also on
+
+[Chris from Butter 👋] competitor sites to actually share something that's not... You know, I understand that there's a
+
+[Chris from Butter 👋] certain level of Ps in those pages, but it can't be like well,
+
+[Chris from Butter 👋] this is not what this product does where people actually
+
+[Chris from Butter 👋] like c right to. And it needs to have
+
+[Chris from Butter 👋] some form of validity where people don't call Bs the moment to read the first line.
+
+[Chris from Butter 👋] So there is a... That's that's kind of the way
+
+[Chris from Butter 👋] or the balancing that needs to happen.
+
+[Cheska from Butter] had a comment
+
+[Chris from Butter 👋] Yeah. So so
+
+[Chris from Butter 👋] I don't know. So that that that would be my only question as
+
+[Cheska from Butter] Got the word
+
+[Cheska from Butter] I think no one I'll pick.
+
+[Cheska from Butter] Thanks gasp. No. No. I'll take that into consideration what
+
+[Cheska from Butter] fix are seeing. I think we can also batch
+
+[Cheska from Butter] like the more important one is all almost like feature pricing because that's immediate thing that
+
+[Cheska from Butter] people would would need to have
+
+[Cheska from Butter] would need to be convinced off how much they're saving and the tools
+
+[Cheska from Butter] versus how much they will be paying for butter.
+
+[Cheska from Butter] And then for the comparison pages, we can either do it
+
+[Cheska from Butter] a per tool or on a plan run.
+
+[Cheska from Butter] Sort of thing make list out, what are the tools we can potentially your place for
+
+[Cheska from Butter] part of the journey. But I'm not too sure. Like, if the main thing we're considering is also seo,
+
+[Cheska from Butter] that I don't think that would completely address it. So
+
+[Cheska from Butter] let me... I'll I'll give it a think and then it'll come up several options.
+
+[Cheska from Butter] If we do decide to go to the specific page
+
+[Cheska from Butter] And actually, you I will keep it super duper lean
+
+[Cheska from Butter] not clean like, much much shorter.
+
+[Cheska from Butter] More condensed compared to butter versus zoom in as she mentioned
+
+[Cheska from Butter] and it if possible. Okay.
+
+[Cheska from Butter] Any any other
+
+[Cheska from Butter] Thanks for website.
+
+[Cheska from Butter] I also listed that down how to, but I think that's a different
+
+[Cheska from Butter] works, to how to video and help.
+
+[Chris from Butter 👋] How to videos is... Yeah. It's a separate thing. Right?
+
+[Chris from Butter 👋] I don't have anything else for website, I think.
+
+[Chris from Butter 👋] I like the idea of doing
+
+[Chris from Butter 👋] block or some section of the pricing page
+
+[Chris from Butter 👋] that just lists. Thank you.
+
+[Chris from Butter 👋] Stop using, like, gathering treat pack, and
+
+[Chris from Butter 👋] you can do that butter. Doing this, you can do this in butter.
+
+[Chris from Butter 👋] Don't use Because you can run poles and butter, all of those things.
+
+[Chris from Butter 👋] Could be like a a nice short where you could
+
+[Chris from Butter 👋] put logos in, like consolidate your
+
+[Chris from Butter 👋] workflow in butter and get rid of these things.
+
+[Chris from Butter 👋] I think that would be a really nice way because I think that is also where people
+
+[Chris from Butter 👋] we'll go into evaluate whether something for them.
+
+[Chris from Butter 👋] If that's a section that's
+
+[Chris from Butter 👋] shows to be interesting. I guess that could all be copied on two different pages.
+
+[Chris from Butter 👋] So use case page, you can have that same section.
+
+[Chris from Butter 👋] Okay. So you're running training logs, training sessions.
+
+[Chris from Butter 👋] These are probably the top five tools that they... Most of them use.
+
+[Chris from Butter 👋] Let's add them in there and say consolidate it's better so. That could be, like a lightweight approach
+
+[Chris from Butter 👋] we would need to be to build a full page, but we build a
+
+[Chris from Butter 👋] section or element that I guess would be easy. More easily,
+
+[Chris from Butter 👋] adaptable and and easier to copy from page to page.
+
+[Chris from Butter 👋] So let's do something to consider, I guess.
+
+[Cheska from Butter] Stupid question rent for
+
+[Cheska from Butter] for casper. Like, it's... Those blocks are we can
+
+[Cheska from Butter] it right.
+
+[Kasper Andersen] Which
+
+[Kasper Andersen] I mean,
+
+[Cheska from Butter] We have similar to how we have the footer on sign up
+
+[Cheska from Butter] Not photo the the banner before the footer is it possible to those blocks.
+
+[Kasper Andersen] Yeah. We we can we can size everything and
+
+[Kasper Andersen] just depends on I don't think I totally get
+
+[Kasper Andersen] your Kristen do. It depends on
+
+[Kasper Andersen] because the template is something else. It's, like, more of a page. Right?
+
+[Chris from Butter 👋] Started a tool: Whiteboard
+
+[Kasper Andersen] That we can... But there's not really templates in. Loads more connect
+
+[Kasper Andersen] it through Cms. And then when you write something in,
+
+[Kasper Andersen] then it's just used
+
+[Kasper Andersen] but we should try to keep as much as possible in the Cms.
+
+[Kasper Andersen] Because components is just
+
+[Kasper Andersen] something I use when I designed the page,
+
+[Kasper Andersen] So... Yeah. Guess.
+
+[Kasper Andersen] I don't think I do question. But we can everything, But
+
+[Kasper Andersen] I don't really see if I don't see
+
+[Kasper Andersen] a place where you are going to touch those components because then
+
+[Chris from Butter 👋] So I think I just opened it up... So if you look at
+
+[Chris from Butter 👋] the three blocks here as a as one page
+
+[Chris from Butter 👋] Right. Where the top one here, casper piece correct if Wrong.
+
+[Chris from Butter 👋] This would be the pricing table, for example, And then you would have... This one down here is our current
+
+[Chris from Butter 👋] comparison matrix. Right? So the bottom one here. Comparison
+
+[Chris from Butter 👋] matrix.
+
+[Kasper Andersen] Are we on the pricing page? Now?
+
+[Chris from Butter 👋] Yeah. This pricing page just as an example. Yeah.
+
+[Chris from Butter 👋] So pricing table at the top, and then the suggestion here was
+
+[Chris from Butter 👋] say, okay, let's make a section that has to do with
+
+[Chris from Butter 👋] truly comparison. Right?
+
+[Chris from Butter 👋] So I guess, the way that this... Are you building this as a
+
+[Chris from Butter 👋] as a component or as a section, or would this be easy to
+
+[Chris from Butter 👋] safe. We've built this in one place, we could say
+
+[Chris from Butter 👋] on the... So if there is a feature page here,
+
+[Chris from Butter 👋] or a use case
+
+[Chris from Butter 👋] there's not a a page but it's a header And this full page, you could say
+
+[Chris from Butter 👋] we can copy this over and make
+
+[Chris from Butter 👋] a few changes to this one over here, but the structure of that block
+
+[Chris from Butter 👋] would essentially be the same... Yep.
+
+[Kasper Andersen] Yeah. This is what we already
+
+[Chris from Butter 👋] Yep.
+
+[Kasper Andersen] do. What I mean is, like, you can't, like,
+
+[Kasper Andersen] let's say that this was the feature page. Right? You can
+
+[Kasper Andersen] take that whole page and say, now it's just use case page.
+
+[Chris from Butter 👋] Dirty.
+
+[Kasper Andersen] You create on new page page and then you copy paste every
+
+[Kasper Andersen] think over. And if it's a component or not, that's just more on my work.
+
+[Kasper Andersen] Flow. It doesn't really matter. You can just, you know,
+
+[Kasper Andersen] As you just did here. Market copy then.
+
+[Kasper Andersen] Command with, and then it works for you, like,
+
+[Chris from Butter 👋] Yep.
+
+[Kasper Andersen] So... Yeah, in all the stuff we already have.
+
+[Kasper Andersen] It's it's super easy easy to do. But it's... What I mean is it's
+
+[Kasper Andersen] I still need an hour to to actually do the copy pasting because
+
+[Kasper Andersen] Yeah. We're close to it sometimes because
+
+[Chris from Butter 👋] F.
+
+[Kasper Andersen] if I said this this thing is set up to a
+
+[Kasper Andersen] Cms, then I have to take out all the Cms and then copy paste. You can just copy
+
+[Kasper Andersen] So that's me that's more of a hacking
+
+[Kasper Andersen] web workflow kind of thing. But... Yeah. Whatever we have is super easy to do and that
+
+[Kasper Andersen] what we already did with... I think use case pages and feed
+
+[Kasper Andersen] to pay this uses a lot of the same.
+
+[Chris from Butter 👋] This how clarify Chess?
+
+[Chris from Butter 👋] Great.
+
+[Kasper Andersen] Good I'm doing.
+
+[Chris from Butter 👋] Thank you. It's amazing how people preach
+
+[Chris from Butter 👋] that illustrations and just putting stuff down on paper actually help
+
+[Chris from Butter 👋] Stopped tool: Whiteboard
+
+[Chris from Butter 👋] with getting people in the same table. It works.
+
+[Chris from Butter 👋] Cool.
+
+[Chris from Butter 👋] So today? Just as a quick note. I think
+
+[Chris from Butter 👋] I'm... I just set up a draft to
+
+[Chris from Butter 👋] announce, you know, the engagement features. So what I'm doing is I am
+
+[Chris from Butter 👋] just recording a short video that we can add into it, which
+
+[Chris from Butter 👋] will be, like, a walk through like, I'll scrolls to one of our
+
+[Chris from Butter 👋] sprint kickoff sessions just because that has a lot
+
+[Chris from Butter 👋] the engagement data, which are without anything being sensitive in there. Right?
+
+[Chris from Butter 👋] So we can show
+
+[Chris from Butter 👋] just on his stuff. I won't show in session because that's
+
+[Chris from Butter 👋] be difficult to do. When you're only one person, otherwise you need to organize
+
+[Chris from Butter 👋] multiple people, but I'll just let people know that.
+
+[Chris from Butter 👋] Can be done in session. Need to figure out if you don't show how that can be done.
+
+[Chris from Butter 👋] I'll focus this to be a
+
+[Chris from Butter 👋] Well, an update video, we could potentially also use it on social media,
+
+[Chris from Butter 👋] which which may be good. I'll be using
+
+[Chris from Butter 👋] some of the... I was
+
+[Chris from Butter 👋] to use... On on remembering how to best implement the template intro
+
+[Chris from Butter 👋] stuff that you created. So might
+
+[Chris from Butter 👋] if if I... For some reason, don't get that working, I might just
+
+[Chris from Butter 👋] pin you to to assist with that. Hopefully, that
+
+[Chris from Butter 👋] That is okay.
+
+[Chris from Butter 👋] But... Yeah. So that's one thing that's that's coming out today.
+
+[Chris from Butter 👋] And then I think just for how videos would be good to
+
+[Chris from Butter 👋] to create how to video for that as well as down the line.
+
+[Chris from Butter 👋] And we'll need to write up the release notes
+
+[Chris from Butter 👋] and
+
+[Chris from Butter 👋] The recap help dock
+
+[Chris from Butter 👋] only thing missing in house assets for that. I
+
+[Chris from Butter 👋] think I've created most missed copy for it.
+
+[Chris from Butter 👋] And then creating a separate page for
+
+[Chris from Butter 👋] engagement analytics that we can also point
+
+[Chris from Butter 👋] from the recap page where people can dive into... So what are the individual
+
+[Chris from Butter 👋] shots, graphs, whatever showing. I think that would be a nice little thing to
+
+[Kasper Andersen] had a comment
+
+[Chris from Butter 👋] have for people.
+
+[Kasper Andersen] Got the word
+
+[Kasper Andersen] Just a quick note on. I don't know if you know it, but when you
+
+[Kasper Andersen] create a Cms item you can schedule the post,
+
+[Kasper Andersen] So if you know that you want tomorrow, then you can just do today, and then it would
+
+[Chris from Butter 👋] Yeah. That's... I think that's as soon as you go into the save or
+
+[Chris from Butter 👋] publish, I think there is a... Or I don't know if it's if it if it is
+
+[Chris from Butter 👋] you set the date or something like this that it's schedules. But, yeah, that that's pretty nice
+
+[Kasper Andersen] Just
+
+[Kasper Andersen] just on the date in in
+
+[Kasper Andersen] in there now. It's not that important anymore. It's mostly because
+
+[Kasper Andersen] had to date all the old ones while uploading everything in add once
+
+[Kasper Andersen] but yet. So as long as it's just
+
+[Kasper Andersen] same ish. It's not... It's only connected to higher see in the page.
+
+[Kasper Andersen] It's not connected to add the whole Api or the
+
+[Chris from Butter 👋] Got it. I think that's it.
+
+[Chris from Butter 👋] And on my end. I don't know if there's anything else
+
+[Cheska from Butter] For me just
+
+[Cheska from Butter] for engagement analytics, or released
+
+[Cheska from Butter] we're thinking of doing a bit of a agreed recap
+
+[Cheska from Butter] like, what you've updated recap and then we type on that.
+
+[Cheska from Butter] On October nineteenth.
+
+[Cheska from Butter] Not to sure if few guys are okay with that time.
+
+[Chris from Butter 👋] Efficient?
+
+[Cheska from Butter] Yeah. Like a bit of an intro event.
+
+[Chris from Butter 👋] October nineteenth... Do we wanna
+
+[Cheska from Butter] Ideally if we have recording trimming, I think that would also be like
+
+[Cheska from Butter] things that in terms of recap that we've improved since the last time, so
+
+[Chris from Butter 👋] Yeah. Okay. So what we have in the
+
+[Chris from Butter 👋] time the upcoming releases... Adam is working on highlights.
+
+[Chris from Butter 👋] Right? Sam is just tweaking engagement analytics. I think there's some
+
+[Chris from Butter 👋] stuff coming out there still.
+
+[Chris from Butter 👋] Recording trimming, Tucker is
+
+[Chris from Butter 👋] I I think he's polishing.
+
+[Chris from Butter 👋] Is the Qa speed might be reduced since s,
+
+[Chris from Butter 👋] is out, right for the next two weeks, I think it is. She's
+
+[Chris from Butter 👋] on holiday,
+
+[Chris from Butter 👋] So I don't know if that... Or I don't know how it will impact.
+
+[Chris from Butter 👋] The Qa process.
+
+[Chris from Butter 👋] We also have the troubleshooting tool. I don't know. That's not related.
+
+[Chris from Butter 👋] To b caps. Right? But might be good to mention that as well. That's
+
+[Chris from Butter 👋] out out for Qa now as well.
+
+[Chris from Butter 👋] In recap and then the highlights as Adam is
+
+[Chris from Butter 👋] currently working on that, which males be interesting for us to I
+
+[Chris from Butter 👋] to two. So yeah. I think maybe the nineteenth might be still a good
+
+[Chris from Butter 👋] What date is that weekday?
+
+[Cheska from Butter] Eighteenth. That's a first day. We can eat to do nineteenth or
+
+[Chris from Butter 👋] I think both Casper and I are out
+
+[Cheska from Butter] twenties.
+
+[Chris from Butter 👋] and nineteenth. I think that's... Or is that the week after?
+
+[Kasper Andersen] For Ama next week.
+
+[Chris from Butter 👋] You're at next week.
+
+[Kasper Andersen] You're you're out the week
+
+[Chris from Butter 👋] Every week after. Because that's
+
+[Chris from Butter 👋] it's fault vacation here in Denmark toe. Schools are.
+
+[Cheska from Butter] Yeah. Then maybe twenty
+
+[Cheska from Butter] either twenty five or twenty six also works. The twenty four we have shown until
+
+[Chris from Butter 👋] Yeah. I'm just wondering if there's a
+
+[Chris from Butter 👋] I I don't wanna push it that far. I and a month has passed and like, that
+
+[Chris from Butter 👋] that's pretty precious time right now. So I'd rather
+
+[Chris from Butter 👋] and don't... I'd honestly rather do it
+
+[Chris from Butter 👋] Next week, then push it far down.
+
+[Cheska from Butter] Do we have highlights by then?
+
+[Chris from Butter 👋] I don't care. Like, if like, honestly, we can we can
+
+[Cheska from Butter] Okay.
+
+[Chris from Butter 👋] we can tell about it still. Like, we have ways to show that it's coming. So we can use it
+
+[Chris from Butter 👋] to pipe it up. And
+
+[Chris from Butter 👋] So I'd I'd rather keep this swift and execute on it quickly rather than push it
+
+[Cheska from Butter] Yeah.
+
+[Chris from Butter 👋] forward it because we want to see the effects of this as soon as possible.
+
+[Cheska from Butter] Yeah.
+
+[Chris from Butter 👋] And end a month from now is just like, that's too far away. Or twenty days, Like
+
+[Cheska from Butter] That's
+
+[Chris from Butter 👋] three weeks from now.
+
+[Cheska from Butter] for... Sorry. Just so I I can also check on your... On file.
+
+[Chris from Butter 👋] Holiday.
+
+[Cheska from Butter] Holiday holiday.
+
+[Cheska from Butter] And then I'll just send you guys a calendar.
+
+[Cheska from Butter] Either I'm thinking either... We still need their on no b to promote twelve or
+
+[Cheska from Butter] seventeen could work either of those two dates.
+
+[Chris from Butter 👋] Yeah. And casper don't, I get
+
+[Cheska from Butter] Okay.
+
+[Chris from Butter 👋] it's if you're a way, I'll take it. So don't worry if you're not... If you're not in.
+
+[Kasper Andersen] It's my Honeymoon. So I think Lot will be a bit
+
+[Chris from Butter 👋] Yeah. Okay.
+
+[Kasper Andersen] Mad for doing.
+
+[Chris from Butter 👋] I'll I'll I'll leave you to please focus
+
+[Chris from Butter 👋] sun undo for those days.
+
+[Kasper Andersen] But again, we it also works the other way around it. If
+
+[Kasper Andersen] it works better than Chris Result we can also do it.
+
+[Kasper Andersen] Just also... I think it worked pretty well when we did the at the agenda where we
+
+[Kasper Andersen] of the hat feet features coming up, like just during it
+
+[Kasper Andersen] when we are really integrating for the went pretty well because it also kind of affects
+
+[Kasper Andersen] of it, I guess, To follow on
+
+[Chris from Butter 👋] Yeah. I guess the good thing about it is also the kind
+
+[Chris from Butter 👋] produces content that we can share afterwards.
+
+[Chris from Butter 👋] Right? So there's material where we can cut from sessions
+
+[Chris from Butter 👋] afterwards and and share on social media. So
+
+[Kasper Andersen] It would be cool if we could share highlights from that session.
+
+[Kasper Andersen] So if you're actually add highlights,
+
+[Cheska from Butter] There's no mind blown.
+
+[Chris from Butter 👋] Very true.
+
+[Chris from Butter 👋] No. That will be that would be crazy. Right? If you just continue to click
+
+[Chris from Butter 👋] the the big frame that in the big one, it would just explode
+
+[Chris from Butter 👋] Be crazy.
+
+[Cheska from Butter] But I... That's it. On my plate, we also have the show seat.
+
+[Cheska from Butter] S Cr. So if you guys want to join Fairs stat
+
+[Cheska from Butter] what they're touching on is primarily, like design.
+
+[Cheska from Butter] And then on sales, I'll just do a loom update.
+
+[Chris from Butter 👋] If do you have any questions on that on the sales process at the moment?
+
+[Chris from Butter 👋] Okay. Cool.
+
+[Chris from Butter 👋] On the video stuff,
+
+[Chris from Butter 👋] the intro... Is that on lead
+
+[Chris from Butter 👋] that that we
+
+[Chris from Butter 👋] create that. Is that where it lives? Or is it in canada or if you remember
+
+[Cheska from Butter] It's on v.
+
+[Chris from Butter 👋] And we can also change the assets there on the
+
+[Cheska from Butter] Mh. Yeah.
+
+[Chris from Butter 👋] it's just... I didn't... Like, of course, figure out once you sit down and undo it, but it's
+
+[Chris from Butter 👋] it feels like every time I need to sit down and do it. I need to blur it again, which just makes it
+
+[Chris from Butter 👋] unnecessarily long winded.
+
+[Kasper Andersen] had a comment
+
+[Kasper Andersen] Got the word
+
+[Kasper Andersen] Got the word
+
+[Kasper Andersen] Just on that note, we we still have
+
+[Kasper Andersen] all the how to videos in wheat. We just
+
+[Kasper Andersen] have to remember that there is a supply book where doesn't really work with weed.
+
+[Kasper Andersen] In app. Don't really know
+
+[Kasper Andersen] a priority to move it to Youtube. But at some point, we'll probably have to do that.
+
+[Kasper Andersen] All we wait for Apples to fix it.
+
+[Chris from Butter 👋] Does v have the auto translate Ai
+
+[Chris from Butter 👋] f. Like, the sync sync syncing
+
+[Chris from Butter 👋] it's old. Yeah. But I'm thinking I'm thinking
+
+[Chris from Butter 👋] you know, the the stuff where Jacob and speak Spanish?
+
+[Chris from Butter 👋] And Chinese.
+
+[Kasper Andersen] They must be fourteen a few months.
+
+[Kasper Andersen] I can't imagine it's not like somewhere.
+
+[Chris from Butter 👋] You know. I... Again, it's probably also one of those Like it won't make
+
+[Chris from Butter 👋] too much of an impact right now, but
+
+[Chris from Butter 👋] do we have any form of usage view stats on the videos?
+
+[Chris from Butter 👋] Or does speed not
+
+[Cheska from Butter] We have on the page un feed itself. We don't have the
+
+[Chris from Butter 👋] Okay.
+
+[Chris from Butter 👋] If we upload videos in
+
+[Chris from Butter 👋] batches. We can also use the in app product announcement just
+
+[Chris from Butter 👋] to show, like, new videos and link people to the updates. Right?
+
+[Chris from Butter 👋] I think one thing that's... I think it's really good for
+
+[Chris from Butter 👋] because we're able to actually write a bit more stuff that we'll show for people.
+
+[Chris from Butter 👋] And now the the little dot
+
+[Chris from Butter 👋] thingy has also been updated so when you click it. It it opens the app
+
+[Chris from Butter 👋] portal. Which really nice. So
+
+[Chris from Butter 👋] So let's just let's get into the habit of
+
+[Chris from Butter 👋] and
+
+[Chris from Butter 👋] I we should. If not, that's one of the things we
+
+[Chris from Butter 👋] they need to set up, But I think we have
+
+[Chris from Butter 👋] But let's let's check. Let's check.
+
+[Chris from Butter 👋] Does it count on
+
+[Chris from Butter 👋] because it is also a page. Right. It's an embedded page.
+
+[Cheska from Butter] Yeah.
+
+[Chris from Butter 👋] So question is if there is if we're tracking just the
+
+[Chris from Butter 👋] opened embedded version as a view,
+
+[Cheska from Butter] I think we just have discussed right now in a Ga, we're only track.
+
+[Kasper Andersen] Yeah.
+
+[Cheska from Butter] In app dot butter butter dot Us. But we don't track the other sub domains.
+
+[Cheska from Butter] So we can just add it then, I think.
+
+[Chris from Butter 👋] Think that would be good.
+
+[Cheska from Butter] Okay.
+
+[Chris from Butter 👋] And if that counts both the in app
+
+[Chris from Butter 👋] I guess, one thing is, of course, challenging is that if
+
+[Chris from Butter 👋] automatically shows whenever there's a new one that doesn't mean that people have
+
+[Chris from Butter 👋] seen it. Right? I don't know if we can actually exchange
+
+[Kasper Andersen] Yeah. It's it really... Yeah. For the product updates. I guess,
+
+[Kasper Andersen] it's not really the goal to get people to open it. It's more like it's right in your face.
+
+[Kasper Andersen] Because can you actually ever open butter now?
+
+[Kasper Andersen] The dashboard without seeing it. I don't think you really can.
+
+[Kasper Andersen] Because it just opens right.
+
+[Chris from Butter 👋] No. Exactly. And you cannot turn it off, which is amazing.
+
+[Chris from Butter 👋] Yeah. No. So maybe
+
+[Chris from Butter 👋] But I think just in general tracking, I don't know. Probably good to track it in years.
+
+[Chris from Butter 👋] Just. If you can add it as c separate extension.
+
+[Cheska from Butter] That mixed mixed I, I'm not too sure how do I... But
+
+[Cheska from Butter] if if we need to track... But I don't think we need to track like as Casper mentioned just
+
+[Chris from Butter 👋] I don't know if it also made sense for us to
+
+[Chris from Butter 👋] if there's a show tell series, for example, like, a day before or something like that doing it a
+
+[Chris from Butter 👋] and we need to figure out so it doesn't open
+
+[Chris from Butter 👋] every time you open up butter with new information. Right? Because then you'll just, like, automatically close it.
+
+[Cheska from Butter] Yeah.
+
+[Chris from Butter 👋] But I do think, like, if there's this show and tell and it's coming up in two days.
+
+[Cheska from Butter] That would be
+
+[Chris from Butter 👋] You could host it. As as an update.
+
+[Chris from Butter 👋] Tags.
+
+[Chris from Butter 👋] Yeah. Yeah. But we have... But it will only show for people in in butter. Right?
+
+[Chris from Butter 👋] But we have tags, I guess, Casper like, you created it from updates,
+
+[Chris from Butter 👋] for events and presented it. So
+
+[Chris from Butter 👋] if we end up doing so, we could think about adding a way to shelter.
+
+[Chris from Butter 👋] Between types of updates
+
+[Chris from Butter 👋] on the embedded At one point. I don't think it's this necessary now, but if we
+
+[Chris from Butter 👋] using it like this, This could be a consideration.
+
+[Chris from Butter 👋] Okay. Cool. I would just brainstorm some. I don't know I don't have
+
+[Chris from Butter 👋] too much other stuff.
+
+[Kasper Andersen] had a comment
+
+[Chris from Butter 👋] Did we capture everything? Yep.
+
+[Kasper Andersen] Got the word
+
+[Kasper Andersen] Got the word
+
+[Kasper Andersen] Yeah. Just me just have. It'll look at my latest.
+
+[Kasper Andersen] Post in product design. I did loom about event pages.
+
+[Cheska from Butter] So Chris, something for percent review. Not pro. I was tagged. So
+
+[Chris from Butter 👋] Much?
+
+[Cheska from Butter] You tagged something on product experiment. So I'll just look through san of.
+
+[Chris from Butter 👋] I... Yeah. Yeah. That's fine.
+
+[Chris from Butter 👋] If you have time, that's good.
+
+[Chris from Butter 👋] Cool
+
+[Chris from Butter 👋] Thanks so much for attending. Have
+
+[Chris from Butter 👋] A great day.
+
+
+Please answer the following question from the transcript above. Only answer from the transcript, don’t make anything up.
